@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+      {
+        "name": "Python: Django Runserver",
+        "type": "python",
+        "request": "launch",
+        "program": "D:\\google sheet\\projectname\\manage.py",  // Replace with the actual path to your manage.py
+        "args": ["runserver"],
+        "django": true
+      }
+    ]
+}
+  
